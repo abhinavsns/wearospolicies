@@ -1,0 +1,2 @@
+# wearospolicies
+WearOSAppPolicies
